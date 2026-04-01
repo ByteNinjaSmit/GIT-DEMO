@@ -1,0 +1,61 @@
+1. Repository Creation
+2. Commit Changes
+3. Changes All
+4. Commit
+5. Push
+6. Selected changes 
+7. commit
+8. Push
+9. Discard Changes
+10.Create new branch
+11. New Module Push
+12. Pull Request
+
+
+Main -> Server Deployed
+Mahi -> Mahendra Working
+Smit -> Smit Working 
+
+PR -> Pull request 
+==> From One Branch -> Deployed
+Mahi --> Main
+
+1-Working  --> 2nd Working Branch
+Smit-> mahi
+
+Work -> Testing 
+I fixed Bug in My branch 
+Tu Pull Ghe and Test kr
+Without PR
+---> PULL FROM
+
+
+1. repo create
+2. Changes Add
+3. Commit
+4. Push
+5. Pull
+-------------
+5. new Branch (checkout)
+6. Publish new branch
+7. Branch Switch (Checkout)
+----------
+Merging from one Branch to Another branch 
+8. Pull request
+9. Pull FROM (Without PR)
+
+
+Cloud Upload Upload ->> Next
+back / reverse / Undo  --> Remove commit 
+(last remove / particular Stage remove)
+roll Down --> Old Feature -> New Feature (code Distrub Logic)
+Old 
+------------------------
+git reset --hard <hash code of commmit>
+git push --force
+
+-----------------
+
+code  -> Forward -> backward -> Forward 
+Undo -> redo -> Undo
+
